@@ -1,23 +1,27 @@
-﻿# analise-combustiveis-powerbi
+# 📊 Análise de Combustíveis no Brasil
 
 ## Objetivo
-Analisar os preços dos combustíveis no Brasil utilizando Power BI.
+Desenvolver um dashboard interativo para analisar os preços dos combustíveis no Brasil.
 
 ## Ferramentas
 - Power BI
 - Power Query
 - DAX
+- Excel
 
-## Etapas
-- ETL dos dados
-- Modelagem em esquema estrela
-- Criação de medidas DAX
-- Desenvolvimento do dashboard
+## Indicadores
+- Preço médio por combustível
+- Evolução dos preços
+- Comparação entre estados
+- Média por região
+
+## Arquivos
+- Dashboard_Combustiveis_Brasil.pbix
 
 ## Dashboard
 
 <img width="1156" height="649" alt="image" src="https://github.com/user-attachments/assets/83411d0b-ae8a-4700-ae2d-49e241e13c7b" />
+﻿
 
 
-## Fonte dos dados
-https://dados.gov.br/
+
