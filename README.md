@@ -22,6 +22,7 @@ Desenvolver um dashboard interativo para analisar os preços dos combustíveis n
 
 <img width="1156" height="649" alt="image" src="https://github.com/user-attachments/assets/83411d0b-ae8a-4700-ae2d-49e241e13c7b" />
 ﻿
-
+Geral:
+<img width="1159" height="654" alt="image" src="https://github.com/user-attachments/assets/b563c52f-a31d-4b87-b943-23007874e939" />
 
 
